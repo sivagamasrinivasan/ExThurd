@@ -17,6 +17,7 @@ public class TestThursdayExample {
         // TODO code application logic here
         //comment
         //dte 23 
+        System.out.println("pull operations");
     }
     
 }
