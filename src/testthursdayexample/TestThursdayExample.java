@@ -18,6 +18,7 @@ public class TestThursdayExample {
         //comment
         //dte 23 
         System.out.println("pull operations");
+        //fetch+merge 
     }
     
 }
