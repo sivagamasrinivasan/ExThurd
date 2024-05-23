@@ -19,6 +19,7 @@ public class TestThursdayExample {
         //dte 23 
         System.out.println("pull operations");
         //fetch+merge 
+        //Today is ICE 1
     }
     
 }
